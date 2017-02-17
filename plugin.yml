@@ -1,0 +1,12 @@
+name: Friends
+main: com.prmol.friend.plugin
+version: 1.0
+author: eggy
+commands:
+    friends:
+        aliases: [friend,f]
+        description: 朋友
+        usage: /<command> help
+
+#prmol 独创
+#盗版必究
